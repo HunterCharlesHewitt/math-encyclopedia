@@ -1,0 +1,1 @@
+body{--list-marker-color:var(--interactive-accent);--fill_color:black;--border_style:solid;--border_width:1.5px;--border_color:var(--interactive-accent)}ol>li{list-style:none}ol>li:before{content:counter(list) ") ";counter-increment:list}/*!* This makes them black when export to PDF*!*//*!* the background-primary makes the main note pane completely transparent.*/
